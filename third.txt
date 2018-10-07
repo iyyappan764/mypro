@@ -1,0 +1,23 @@
+Multithreading
+ways to creating the thread
+name of the thread
+thread priorities
+
+prevent thread execution
+yield() 
+join() and sleep()
+interthread communication
+wait 
+notify notifyall
+
+multitasking
+ reduce the processor idle time  and to improve performance
+executing multiple tasks simultaneoulsy
+
+types of multitasking
+ processed based multitasking--executing several task simultaneoulsy where each task having separate independent process or program
+ threadbased-executing multiple task are 
+ 
+ 
+ thread scheduler jop: 
+ 
