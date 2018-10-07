@@ -14,12 +14,13 @@ multitasking
  reduce the processor idle time  and to improve performance
 executing multiple tasks simultaneoulsy
 
-types of multitasking
+types of 
  processed based multitasking--executing several task simultaneoulsy where each task having separate independent process or program
  threadbased-executing multiple task are 
  
  
  thread scheduler job: 
+ fsdfsadf
  
  
  ayyap
