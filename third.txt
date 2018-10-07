@@ -19,5 +19,5 @@ types of multitasking
  threadbased-executing multiple task are 
  
  
- thread scheduler jop: 
+ thread scheduler job: 
  
